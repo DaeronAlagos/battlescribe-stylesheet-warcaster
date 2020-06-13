@@ -1,0 +1,23 @@
+{
+  "name": "battlescribe-stylesheet-warcaster",
+  "version": "1.0.0",
+  "description": "Warcaster: Neo Mechanika stylesheet for Battlescribe",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DaeronAlagos/battlescribe-stylesheet-warcaster.git"
+  },
+  "keywords": [
+    "Warcaster",
+    "Battlescribe"
+  ],
+  "author": "DaeronAlagos",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DaeronAlagos/battlescribe-stylesheet-warcaster/issues"
+  },
+  "homepage": "https://github.com/DaeronAlagos/battlescribe-stylesheet-warcaster#readme"
+}
