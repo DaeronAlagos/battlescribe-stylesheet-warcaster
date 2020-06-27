@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<roster id="da81-079d-9086-289d" name="isa-skirmish" battleScribeVersion="2.03" gameSystemId="6e64-0ab9-a430-a976" gameSystemName="Warcaster: Neo-Mechanika" gameSystemRevision="2" xmlns="http://www.battlescribe.net/schema/rosterSchema">
+<roster id="7d9d-141d-10ea-89f0" name="ISA Skirmish" battleScribeVersion="2.03" gameSystemId="6e64-0ab9-a430-a976" gameSystemName="Warcaster: Neo-Mechanika" gameSystemRevision="2" xmlns="http://www.battlescribe.net/schema/rosterSchema">
   <costs>
-    <cost name="Weapon Points" typeId="ecbb-d452-36d4-0214" value="12.0"/>
+    <cost name="Weapon Points" typeId="ecbb-d452-36d4-0214" value="13.0"/>
   </costs>
   <forces>
-    <force id="ad34-adc9-512f-9d8e" name="Skirmish" entryId="9d06-65d5-e823-50f0" catalogueId="ac83-1714-49af-721e" catalogueRevision="3" catalogueName="Iron Star Alliance">
+    <force id="f7fd-c51c-3125-f09f" name="Skirmish" entryId="9d06-65d5-e823-50f0" catalogueId="ac83-1714-49af-721e" catalogueRevision="3" catalogueName="Iron Star Alliance">
       <selections>
-        <selection id="199f-1abd-de48-5874" name="Cyphers" entryId="7416-4cde-e073-481e::3961-255e-7446-6cc4" number="1" type="upgrade">
+        <selection id="d18e-6376-f647-75bf" name="Cyphers" entryId="7416-4cde-e073-481e::3961-255e-7446-6cc4" number="1" type="upgrade">
           <selections>
-            <selection id="17f6-499b-7e34-13a5" name="Cryo Lock" entryId="7416-4cde-e073-481e::fc89-39b6-2439-428a::08e6-7416-c57e-5c50" entryGroupId="7416-4cde-e073-481e::fc89-39b6-2439-428a::1a3f-b312-efad-a610" number="1" type="upgrade">
+            <selection id="fd76-e112-6b02-8c41" name="Cryo Lock" entryId="7416-4cde-e073-481e::fc89-39b6-2439-428a::08e6-7416-c57e-5c50" entryGroupId="7416-4cde-e073-481e::fc89-39b6-2439-428a::1a3f-b312-efad-a610" number="1" type="upgrade">
               <rules>
                 <rule id="7416-4cde-e073-481e::fc89-39b6-2439-428a::314f-be3c-b3ac-adc0" name="-Cypher- Cryo Lock" hidden="false">
                   <description>Fury: POW(-) Target an enemy unit model in range. Make a Fury attack roll against the target model. If this attack hits, it does no damage. Instead, the hit unit gains an activation token. Models that are immune to cold damage are not affected by this Fury.</description>
@@ -18,10 +18,10 @@
                 <cost name="Weapon Points" typeId="ecbb-d452-36d4-0214" value="0.0"/>
               </costs>
               <categories>
-                <category id="0c37-517f-4357-48ca" name="Cyphers" entryId="7856-f1c4-8579-80c1" primary="false"/>
+                <category id="2c8b-8d1c-29df-9730" name="Cyphers" entryId="7856-f1c4-8579-80c1" primary="false"/>
               </categories>
             </selection>
-            <selection id="6851-22ba-c035-9249" name="Instability Equation" entryId="7416-4cde-e073-481e::fc89-39b6-2439-428a::4b5c-4ca8-c0e9-c23d" entryGroupId="7416-4cde-e073-481e::fc89-39b6-2439-428a::1a3f-b312-efad-a610" number="1" type="upgrade">
+            <selection id="0a4a-5089-a138-4b90" name="Instability Equation" entryId="7416-4cde-e073-481e::fc89-39b6-2439-428a::4b5c-4ca8-c0e9-c23d" entryGroupId="7416-4cde-e073-481e::fc89-39b6-2439-428a::1a3f-b312-efad-a610" number="1" type="upgrade">
               <rules>
                 <rule id="7416-4cde-e073-481e::fc89-39b6-2439-428a::983a-76bf-f42c-8125" name="-Cypher- Instability Equation" hidden="false">
                   <description>Fury: POW(4) Target enemy model unit in range. When this attack hits its target, resolve the attack against the target as normal. Additionally, when this attack hits its target the two models closest to the target that are also within 2&quot; of it suffer blast damage rolls equal to the POW of this attack. If this attack misses its target, the target still suffers a blast damage roll equal to the POW of this attack. This Fury causes blast damage.</description>
@@ -31,10 +31,10 @@
                 <cost name="Weapon Points" typeId="ecbb-d452-36d4-0214" value="0.0"/>
               </costs>
               <categories>
-                <category id="cf3d-0ad2-b062-06a4" name="Cyphers" entryId="7856-f1c4-8579-80c1" primary="false"/>
+                <category id="748e-8301-319e-fb43" name="Cyphers" entryId="7856-f1c4-8579-80c1" primary="false"/>
               </categories>
             </selection>
-            <selection id="1dd0-8a97-a644-a40a" name="Malediction Rubric" entryId="7416-4cde-e073-481e::fc89-39b6-2439-428a::5a60-75a2-3fa1-9953" entryGroupId="7416-4cde-e073-481e::fc89-39b6-2439-428a::1a3f-b312-efad-a610" number="1" type="upgrade">
+            <selection id="1b43-07e3-3840-6ebd" name="Malediction Rubric" entryId="7416-4cde-e073-481e::fc89-39b6-2439-428a::5a60-75a2-3fa1-9953" entryGroupId="7416-4cde-e073-481e::fc89-39b6-2439-428a::1a3f-b312-efad-a610" number="1" type="upgrade">
               <rules>
                 <rule id="7416-4cde-e073-481e::fc89-39b6-2439-428a::545c-8f65-b91b-276f" name="-Cypher- Malediction Rubric" hidden="false">
                   <description>Fury: POW(4) Target enemy model unit in range. Make an attack roll against the target model. If the attack hits, enemy Cypher cards on the unit hit expire and the model hit suffers a damage roll. This Fury causes energy damage.</description>
@@ -44,10 +44,10 @@
                 <cost name="Weapon Points" typeId="ecbb-d452-36d4-0214" value="0.0"/>
               </costs>
               <categories>
-                <category id="d8b2-9f02-7ad4-5642" name="Cyphers" entryId="7856-f1c4-8579-80c1" primary="false"/>
+                <category id="7544-dd73-68af-8593" name="Cyphers" entryId="7856-f1c4-8579-80c1" primary="false"/>
               </categories>
             </selection>
-            <selection id="d902-92b7-fa72-6d82" name="Displacement Index" entryId="7416-4cde-e073-481e::8c8c-cb6f-9fe2-55b5::b301-b943-db56-a0ef" entryGroupId="7416-4cde-e073-481e::8c8c-cb6f-9fe2-55b5::0848-e599-6e97-cd8b" number="1" type="upgrade">
+            <selection id="e51d-22dc-9756-7fbe" name="Displacement Index" entryId="7416-4cde-e073-481e::8c8c-cb6f-9fe2-55b5::b301-b943-db56-a0ef" entryGroupId="7416-4cde-e073-481e::8c8c-cb6f-9fe2-55b5::0848-e599-6e97-cd8b" number="1" type="upgrade">
               <rules>
                 <rule id="7416-4cde-e073-481e::8c8c-cb6f-9fe2-55b5::ebf9-470b-c67f-3ca8" name="-Cypher- Displacement Index" hidden="false">
                   <description>Geometric: Target a frinedly squad. The squad can immediately move up to 3&quot;.</description>
@@ -57,10 +57,10 @@
                 <cost name="Weapon Points" typeId="ecbb-d452-36d4-0214" value="0.0"/>
               </costs>
               <categories>
-                <category id="21f6-fc74-8e7c-e075" name="Cyphers" entryId="7856-f1c4-8579-80c1" primary="false"/>
+                <category id="6aa3-4c23-6f88-751a" name="Cyphers" entryId="7856-f1c4-8579-80c1" primary="false"/>
               </categories>
             </selection>
-            <selection id="2bf2-0594-5dc5-d3ef" name="Force Barrier" entryId="7416-4cde-e073-481e::8c8c-cb6f-9fe2-55b5::0c15-8387-c4c1-ffd6" entryGroupId="7416-4cde-e073-481e::8c8c-cb6f-9fe2-55b5::0848-e599-6e97-cd8b" number="1" type="upgrade">
+            <selection id="2265-9085-ca49-56f0" name="Force Barrier" entryId="7416-4cde-e073-481e::8c8c-cb6f-9fe2-55b5::0c15-8387-c4c1-ffd6" entryGroupId="7416-4cde-e073-481e::8c8c-cb6f-9fe2-55b5::0848-e599-6e97-cd8b" number="1" type="upgrade">
               <rules>
                 <rule id="7416-4cde-e073-481e::8c8c-cb6f-9fe2-55b5::518e-32e1-83e4-a9ac" name="-Cypher- Force Barrier" hidden="false">
                   <description>Geometric: Target a frindly squad. Affected models gain cover. Force Barrier expires at the end of the Pulse round.</description>
@@ -70,10 +70,10 @@
                 <cost name="Weapon Points" typeId="ecbb-d452-36d4-0214" value="0.0"/>
               </costs>
               <categories>
-                <category id="7863-9a21-580d-461f" name="Cyphers" entryId="7856-f1c4-8579-80c1" primary="false"/>
+                <category id="bd85-755b-6b93-85b6" name="Cyphers" entryId="7856-f1c4-8579-80c1" primary="false"/>
               </categories>
             </selection>
-            <selection id="2cb3-f55a-1af9-317a" name="Mortality Destabilizer" entryId="7416-4cde-e073-481e::8c8c-cb6f-9fe2-55b5::4f97-00fb-02c9-b4af" entryGroupId="7416-4cde-e073-481e::8c8c-cb6f-9fe2-55b5::0848-e599-6e97-cd8b" number="1" type="upgrade">
+            <selection id="b747-28ce-fb85-7201" name="Mortality Destabilizer" entryId="7416-4cde-e073-481e::8c8c-cb6f-9fe2-55b5::4f97-00fb-02c9-b4af" entryGroupId="7416-4cde-e073-481e::8c8c-cb6f-9fe2-55b5::0848-e599-6e97-cd8b" number="1" type="upgrade">
               <rules>
                 <rule id="7416-4cde-e073-481e::8c8c-cb6f-9fe2-55b5::9925-4d2a-f8e2-1b57" name="-Cypher- Mortality Destabilizer" hidden="false">
                   <description>Geometric: Target a friendly squad. Return one destroyed non-attachment model to this squad. Place the returned model within 2&quot; of another model in the squad.</description>
@@ -83,10 +83,10 @@
                 <cost name="Weapon Points" typeId="ecbb-d452-36d4-0214" value="0.0"/>
               </costs>
               <categories>
-                <category id="d552-5fce-7371-d766" name="Cyphers" entryId="7856-f1c4-8579-80c1" primary="false"/>
+                <category id="cc8b-78a6-2449-90ca" name="Cyphers" entryId="7856-f1c4-8579-80c1" primary="false"/>
               </categories>
             </selection>
-            <selection id="8344-bc77-1878-11a8" name="Aggression Theorem" entryId="7416-4cde-e073-481e::c916-478d-b530-9d7d::c114-04e3-c36a-300c" entryGroupId="7416-4cde-e073-481e::c916-478d-b530-9d7d::e161-0ccc-f461-ea65" number="1" type="upgrade">
+            <selection id="ca56-a70b-43f1-8947" name="Aggression Theorem" entryId="7416-4cde-e073-481e::c916-478d-b530-9d7d::c114-04e3-c36a-300c" entryGroupId="7416-4cde-e073-481e::c916-478d-b530-9d7d::e161-0ccc-f461-ea65" number="1" type="upgrade">
               <rules>
                 <rule id="7416-4cde-e073-481e::c916-478d-b530-9d7d::0e39-ca6a-7d14-8446" name="-Cypher- Aggression Theorem" hidden="false">
                   <description>Harmonic: Target friendly unit model. The target model can immediately make on melee or ranged attack.</description>
@@ -96,10 +96,10 @@
                 <cost name="Weapon Points" typeId="ecbb-d452-36d4-0214" value="0.0"/>
               </costs>
               <categories>
-                <category id="caa8-31c8-85d1-3db8" name="Cyphers" entryId="7856-f1c4-8579-80c1" primary="false"/>
+                <category id="4aa4-cbc1-33f7-8dda" name="Cyphers" entryId="7856-f1c4-8579-80c1" primary="false"/>
               </categories>
             </selection>
-            <selection id="8482-9455-ea02-e597" name="Arcane Synthesis" entryId="7416-4cde-e073-481e::c916-478d-b530-9d7d::18e6-3e8c-1155-78c7" entryGroupId="7416-4cde-e073-481e::c916-478d-b530-9d7d::e161-0ccc-f461-ea65" number="1" type="upgrade">
+            <selection id="0da2-ab3a-d108-ce87" name="Arcane Synthesis" entryId="7416-4cde-e073-481e::c916-478d-b530-9d7d::18e6-3e8c-1155-78c7" entryGroupId="7416-4cde-e073-481e::c916-478d-b530-9d7d::e161-0ccc-f461-ea65" number="1" type="upgrade">
               <rules>
                 <rule id="7416-4cde-e073-481e::c916-478d-b530-9d7d::a511-9340-fe6f-0bb9" name="-Cypher- Arcane Synthesis" hidden="false">
                   <description>Harmonic: Target a friendly unit. You can immediately charge the unit with any amount of Arc up to its limit.</description>
@@ -109,10 +109,10 @@
                 <cost name="Weapon Points" typeId="ecbb-d452-36d4-0214" value="0.0"/>
               </costs>
               <categories>
-                <category id="b2a8-a2fa-1648-5ae5" name="Cyphers" entryId="7856-f1c4-8579-80c1" primary="false"/>
+                <category id="a8e5-fb4a-8344-d599" name="Cyphers" entryId="7856-f1c4-8579-80c1" primary="false"/>
               </categories>
             </selection>
-            <selection id="e7ad-51bb-332d-3471" name="Divination Algorithm" entryId="7416-4cde-e073-481e::c916-478d-b530-9d7d::1da8-636c-d099-24f7" entryGroupId="7416-4cde-e073-481e::c916-478d-b530-9d7d::e161-0ccc-f461-ea65" number="1" type="upgrade">
+            <selection id="fc49-af79-a695-93de" name="Divination Algorithm" entryId="7416-4cde-e073-481e::c916-478d-b530-9d7d::1da8-636c-d099-24f7" entryGroupId="7416-4cde-e073-481e::c916-478d-b530-9d7d::e161-0ccc-f461-ea65" number="1" type="upgrade">
               <rules>
                 <rule id="7416-4cde-e073-481e::c916-478d-b530-9d7d::d47f-dc0c-4b66-e37b" name="-Cypher- Divination Algorithm" hidden="false">
                   <description>Harmonic: Target a frinedly unit. This unit&apos;s ranged weapons gain +1 RNG and POW. Divination Algorithm expires at the end of the Pulse round.</description>
@@ -122,10 +122,10 @@
                 <cost name="Weapon Points" typeId="ecbb-d452-36d4-0214" value="0.0"/>
               </costs>
               <categories>
-                <category id="28ca-2f1d-97ae-9c4b" name="Cyphers" entryId="7856-f1c4-8579-80c1" primary="false"/>
+                <category id="90dc-c47c-ade8-06fa" name="Cyphers" entryId="7856-f1c4-8579-80c1" primary="false"/>
               </categories>
             </selection>
-            <selection id="4073-fe5b-679b-c8a1" name="Annihilation Vector" entryId="7416-4cde-e073-481e::85b7-76df-10d6-764c::7c8c-8d4a-b114-d161" entryGroupId="7416-4cde-e073-481e::85b7-76df-10d6-764c::9376-4c41-6e34-a678" number="1" type="upgrade">
+            <selection id="376b-d774-3e96-56dc" name="Annihilation Vector" entryId="7416-4cde-e073-481e::85b7-76df-10d6-764c::7c8c-8d4a-b114-d161" entryGroupId="7416-4cde-e073-481e::85b7-76df-10d6-764c::9376-4c41-6e34-a678" number="1" type="upgrade">
               <rules>
                 <rule id="7416-4cde-e073-481e::85b7-76df-10d6-764c::fbeb-dcfd-fe2b-be78" name="-Cypher- Annihilation Vector" hidden="false">
                   <description>Overdrive: Target frinedly warjack. The warjack can immediately make one melee attack against an enemy model within 1&quot;. If the attack hits, the model hit suffers a damage roll with a POW equal to the attacking warjack&apos;s STR. This attack causes kinetic damage. Additionally, if the model hit was a warjack, it suffers the System Failure continuous effect.</description>
@@ -135,10 +135,10 @@
                 <cost name="Weapon Points" typeId="ecbb-d452-36d4-0214" value="0.0"/>
               </costs>
               <categories>
-                <category id="7514-d0be-662b-7249" name="Cyphers" entryId="7856-f1c4-8579-80c1" primary="false"/>
+                <category id="3554-9631-cd78-7d82" name="Cyphers" entryId="7856-f1c4-8579-80c1" primary="false"/>
               </categories>
             </selection>
-            <selection id="2594-744f-ff38-20d4" name="Ascension Catalyst" entryId="7416-4cde-e073-481e::85b7-76df-10d6-764c::068f-64c8-76ea-8601" entryGroupId="7416-4cde-e073-481e::85b7-76df-10d6-764c::9376-4c41-6e34-a678" number="1" type="upgrade">
+            <selection id="912f-76d4-8875-fbe4" name="Ascension Catalyst" entryId="7416-4cde-e073-481e::85b7-76df-10d6-764c::068f-64c8-76ea-8601" entryGroupId="7416-4cde-e073-481e::85b7-76df-10d6-764c::9376-4c41-6e34-a678" number="1" type="upgrade">
               <rules>
                 <rule id="7416-4cde-e073-481e::85b7-76df-10d6-764c::7fd3-f82a-bc88-cbeb" name="-Cypher- Ascension Catalyst" hidden="false">
                   <description>Overdrive: Target a frinedly warjack. The warjack gains +2 SPD and the Flight special rule. Ascension Catalyst expires at the end of this turn.</description>
@@ -148,10 +148,10 @@
                 <cost name="Weapon Points" typeId="ecbb-d452-36d4-0214" value="0.0"/>
               </costs>
               <categories>
-                <category id="b8ef-7814-1353-a885" name="Cyphers" entryId="7856-f1c4-8579-80c1" primary="false"/>
+                <category id="461d-ecf0-4b15-3b25" name="Cyphers" entryId="7856-f1c4-8579-80c1" primary="false"/>
               </categories>
             </selection>
-            <selection id="6934-4683-6c1c-2a1c" name="Impulse Inducer" entryId="7416-4cde-e073-481e::85b7-76df-10d6-764c::e79f-edfc-b86f-d9fa" entryGroupId="7416-4cde-e073-481e::85b7-76df-10d6-764c::9376-4c41-6e34-a678" number="1" type="upgrade">
+            <selection id="59bd-6d40-28e3-2a1e" name="Impulse Inducer" entryId="7416-4cde-e073-481e::85b7-76df-10d6-764c::e79f-edfc-b86f-d9fa" entryGroupId="7416-4cde-e073-481e::85b7-76df-10d6-764c::9376-4c41-6e34-a678" number="1" type="upgrade">
               <rules>
                 <rule id="7416-4cde-e073-481e::85b7-76df-10d6-764c::6f61-fa70-2f90-ccc6" name="-Cypher- Impulse Inducer" hidden="false">
                   <description>Overdrive: Target a frineldy warjack. Remove the activation token from the warjack.</description>
@@ -161,7 +161,7 @@
                 <cost name="Weapon Points" typeId="ecbb-d452-36d4-0214" value="0.0"/>
               </costs>
               <categories>
-                <category id="9d18-085b-06fb-4cd0" name="Cyphers" entryId="7856-f1c4-8579-80c1" primary="false"/>
+                <category id="b83a-02ba-343a-a3f4" name="Cyphers" entryId="7856-f1c4-8579-80c1" primary="false"/>
               </categories>
             </selection>
           </selections>
@@ -169,10 +169,10 @@
             <cost name="Weapon Points" typeId="ecbb-d452-36d4-0214" value="0.0"/>
           </costs>
           <categories>
-            <category id="e3f2-f9e8-8542-2f97" name="The Rack" entryId="7ad6-33d2-2e9b-7f2b" primary="true"/>
+            <category id="b286-b7a9-7866-a7ea" name="The Rack" entryId="7ad6-33d2-2e9b-7f2b" primary="true"/>
           </categories>
         </selection>
-        <selection id="bb8c-33c3-0c51-5e12" name="Firebrand" entryId="b0e6-c6b9-4e6f-7c99" number="1" type="model">
+        <selection id="71ff-f676-c235-a905" name="Firebrand" entryId="b0e6-c6b9-4e6f-7c99" number="1" type="model">
           <rules>
             <rule id="37f3-c0b5-5a2b-ed7b::309a-b487-006c-6310" name="Refractor Field (Spike)" hidden="false">
               <description>This Model can spike to reroll a defence roll.</description>
@@ -196,62 +196,54 @@
             </profile>
           </profiles>
           <selections>
-            <selection id="55df-c5a0-ad58-709b" name="Assault Rifle &amp; Bayonet" entryId="d69b-6e64-a4ad-82d2::6cad-6f61-b590-c013" entryGroupId="6b3c-e4b4-8886-0711" number="1" type="upgrade">
-              <profiles>
-                <profile id="d69b-6e64-a4ad-82d2::08de-62a5-f0d5-de17::a669-670b-4692-9886" name="Assault Rifle" hidden="false" typeId="3601-946f-42f1-0f5c" typeName="Weapon">
-                  <characteristics>
-                    <characteristic name="DMG" typeId="bd77-31aa-5209-2b6c">Ballistic</characteristic>
-                    <characteristic name="TYP" typeId="684a-ebe0-b4ae-1d02">Ranged</characteristic>
-                    <characteristic name="RNG" typeId="a6dd-0c75-98a7-e08a">12</characteristic>
-                    <characteristic name="POW" typeId="9750-e740-35f4-1cf6">4</characteristic>
-                    <characteristic name="Rules" typeId="b9f6-e564-4386-9830"/>
-                  </characteristics>
-                </profile>
-                <profile id="d69b-6e64-a4ad-82d2::75de-3196-98cd-f2f7::d5e7-173e-2edd-379f" name="Bayonet" hidden="false" typeId="3601-946f-42f1-0f5c" typeName="Weapon">
-                  <characteristics>
-                    <characteristic name="DMG" typeId="bd77-31aa-5209-2b6c">Kinetic</characteristic>
-                    <characteristic name="TYP" typeId="684a-ebe0-b4ae-1d02">Melee</characteristic>
-                    <characteristic name="RNG" typeId="a6dd-0c75-98a7-e08a">1</characteristic>
-                    <characteristic name="POW" typeId="9750-e740-35f4-1cf6">3</characteristic>
-                    <characteristic name="Rules" typeId="b9f6-e564-4386-9830"/>
-                  </characteristics>
-                </profile>
-              </profiles>
-              <costs>
-                <cost name="Weapon Points" typeId="ecbb-d452-36d4-0214" value="1.0"/>
-              </costs>
-            </selection>
-            <selection id="ba38-9bb9-ec60-31ae" name="Recon Cortex" entryId="0def-32f7-1811-5018" entryGroupId="c9a8-e08a-e9bf-28af" number="1" type="upgrade">
+            <selection id="5571-8683-4497-7ca2" name="&apos;Jack Hunter" entryId="47b5-af54-cff7-eb45" entryGroupId="c9a8-e08a-e9bf-28af" number="1" type="upgrade">
               <rules>
-                <rule id="1b6f-af8f-19ee-bb14::2060-8a7e-1170-aae4" name="Pathfinder" hidden="false">
-                  <description>This model ignores movement penalties for rough terrain.</description>
-                </rule>
-                <rule id="6739-8248-f169-8411::c8f4-25c2-f013-c8b2" name="Revelator" hidden="false">
-                  <description>When making ranged attacks, this model ignores Stealth.</description>
+                <rule id="7447-05d3-15a0-dec8::43d0-e95c-e7b5-3bb3" name="&apos;Jack Hunter (Spike)" hidden="false">
+                  <description>Once per activation, this model can spike to use &apos;Jack Hunter. That activation, this model gains +3 action dice on its attack rolls targeting enemy warjacks.</description>
                 </rule>
               </rules>
               <costs>
                 <cost name="Weapon Points" typeId="ecbb-d452-36d4-0214" value="0.0"/>
               </costs>
             </selection>
-            <selection id="d976-7a98-ca46-cb84" name="Assault Rifle &amp; Bayonet" entryId="0bdf-a36a-aecb-9f8a::6cad-6f61-b590-c013" entryGroupId="2ead-ffc3-b123-a317" number="1" type="upgrade">
+            <selection id="dc15-856f-4c77-416c" name="Null Cannon" entryId="9702-fe91-eb56-8353::a3b7-d885-c0ce-0023" entryGroupId="9eb8-07b2-1642-dd69" number="1" type="upgrade">
+              <rules>
+                <rule id="9702-fe91-eb56-8353::37a0-7360-0ff9-a1f9::f174-cd6d-3802-1cbc" name="Null Strike" hidden="false">
+                  <description>Clear 1 Arc from the unit or void gate hit by this weapon.</description>
+                </rule>
+              </rules>
               <profiles>
-                <profile id="0bdf-a36a-aecb-9f8a::08de-62a5-f0d5-de17::a669-670b-4692-9886" name="Assault Rifle" hidden="false" typeId="3601-946f-42f1-0f5c" typeName="Weapon">
+                <profile id="9702-fe91-eb56-8353::f6c5-5e27-f390-6d9c::060f-6de4-deeb-6f29" name="Null Cannon" hidden="false" typeId="3601-946f-42f1-0f5c" typeName="Weapon">
                   <characteristics>
-                    <characteristic name="DMG" typeId="bd77-31aa-5209-2b6c">Ballistic</characteristic>
+                    <characteristic name="DMG" typeId="bd77-31aa-5209-2b6c">Energy</characteristic>
                     <characteristic name="TYP" typeId="684a-ebe0-b4ae-1d02">Ranged</characteristic>
-                    <characteristic name="RNG" typeId="a6dd-0c75-98a7-e08a">12</characteristic>
-                    <characteristic name="POW" typeId="9750-e740-35f4-1cf6">4</characteristic>
-                    <characteristic name="Rules" typeId="b9f6-e564-4386-9830"/>
+                    <characteristic name="RNG" typeId="a6dd-0c75-98a7-e08a">14</characteristic>
+                    <characteristic name="POW" typeId="9750-e740-35f4-1cf6">5</characteristic>
+                    <characteristic name="Rules" typeId="b9f6-e564-4386-9830">Null Strike</characteristic>
                   </characteristics>
                 </profile>
-                <profile id="0bdf-a36a-aecb-9f8a::75de-3196-98cd-f2f7::d5e7-173e-2edd-379f" name="Bayonet" hidden="false" typeId="3601-946f-42f1-0f5c" typeName="Weapon">
+              </profiles>
+              <costs>
+                <cost name="Weapon Points" typeId="ecbb-d452-36d4-0214" value="3.0"/>
+              </costs>
+            </selection>
+            <selection id="057d-5872-f8ab-47c2" name="Repulsor Shield" entryId="7ec4-f00b-f337-5f49::620f-eebd-5682-893a" entryGroupId="2ead-ffc3-b123-a317" number="1" type="upgrade">
+              <rules>
+                <rule id="7ec4-f00b-f337-5f49::450e-2127-e609-37c6::8d87-7a73-e467-d6cd" name="Repulsor Shield (Spike)" hidden="false">
+                  <description>When this model is hit by a melee attack, after the attack is resolved, this model can spike to use Repulsor Ram. The attacking model is immediately slammed 3&quot; directly away from this model. Collateral damage is equal to the POW of the attacking model&apos;s melee weapon.</description>
+                </rule>
+                <rule id="7ec4-f00b-f337-5f49::63d3-0f6d-ffcb-20fa::ced4-3c62-3606-31ca" name="Shield" hidden="false">
+                  <description>This model gainst +1 ARM. This bonus is cumulative with additional Shield weapons.</description>
+                </rule>
+              </rules>
+              <profiles>
+                <profile id="7ec4-f00b-f337-5f49::a486-ca92-bcf5-9ded::ec42-ff05-a4f4-2c0a" name="Repulsor Shield" hidden="false" typeId="3601-946f-42f1-0f5c" typeName="Weapon">
                   <characteristics>
-                    <characteristic name="DMG" typeId="bd77-31aa-5209-2b6c">Kinetic</characteristic>
+                    <characteristic name="DMG" typeId="bd77-31aa-5209-2b6c">Force</characteristic>
                     <characteristic name="TYP" typeId="684a-ebe0-b4ae-1d02">Melee</characteristic>
                     <characteristic name="RNG" typeId="a6dd-0c75-98a7-e08a">1</characteristic>
-                    <characteristic name="POW" typeId="9750-e740-35f4-1cf6">3</characteristic>
-                    <characteristic name="Rules" typeId="b9f6-e564-4386-9830"/>
+                    <characteristic name="POW" typeId="9750-e740-35f4-1cf6">2</characteristic>
+                    <characteristic name="Rules" typeId="b9f6-e564-4386-9830">Repulsor Ram (Spike), Shield</characteristic>
                   </characteristics>
                 </profile>
               </profiles>
@@ -259,28 +251,25 @@
                 <cost name="Weapon Points" typeId="ecbb-d452-36d4-0214" value="1.0"/>
               </costs>
             </selection>
-            <selection id="f10e-cfba-4be6-5221" name="Harbinger Cannon" entryId="e772-9ee1-231f-1580::1470-2f06-63ec-db51" entryGroupId="9eb8-07b2-1642-dd69" number="1" type="upgrade">
+            <selection id="a1af-d18f-83fe-09a7" name="Force Hammer" entryId="df5b-5b34-d833-3ce9::cbaf-82ac-8c76-cc9b" entryGroupId="6b3c-e4b4-8886-0711" number="1" type="upgrade">
               <rules>
-                <rule id="e772-9ee1-231f-1580::1b0f-a528-b42f-c992::cb00-7571-a4fd-84d6" name="Hunter-Killer Rounds (Spike)" hidden="false">
-                  <description>When making an attack with this weapon, this model can spike to ignore line of sight and cover when declaring the target and resolving the attack.</description>
-                </rule>
-                <rule id="e772-9ee1-231f-1580::09f5-f9e1-b259-1319::77e6-c811-aef4-ee7f" name="Strafe" hidden="false">
-                  <description>After declaring an attack wtih this weapon and its target, roll one power die. For each strike rolled, you can make one additional attack against another model within 2&quot; of the initial target. Each attack must target a different model. Additonal attacks cannot generate additional Strafe attacks.</description>
+                <rule id="df5b-5b34-d833-3ce9::568b-2b8d-a74b-8695::83ee-82fd-698b-c4e6" name="Repulsor" hidden="false">
+                  <description>When this model hits a model with an equal or smaller sized-base with an attack with this weapon, before damage is rolled, the model hit is slammed 3&quot; directly away from this model. Collateral damage is equal to the POW of this weapon.</description>
                 </rule>
               </rules>
               <profiles>
-                <profile id="e772-9ee1-231f-1580::3b7f-2042-b0ce-5253::34fc-3815-d467-5147" name="Harbinger Cannon" hidden="false" typeId="3601-946f-42f1-0f5c" typeName="Weapon">
+                <profile id="df5b-5b34-d833-3ce9::1f67-89e2-4e02-7ba3::9081-2e7b-50a4-a7bf" name="Force Hammer" hidden="false" typeId="3601-946f-42f1-0f5c" typeName="Weapon">
                   <characteristics>
-                    <characteristic name="DMG" typeId="bd77-31aa-5209-2b6c">Ballistic</characteristic>
-                    <characteristic name="TYP" typeId="684a-ebe0-b4ae-1d02">Ranged</characteristic>
-                    <characteristic name="RNG" typeId="a6dd-0c75-98a7-e08a">12</characteristic>
-                    <characteristic name="POW" typeId="9750-e740-35f4-1cf6">4</characteristic>
-                    <characteristic name="Rules" typeId="b9f6-e564-4386-9830">Hunter-Killer Rounds (Spike), Strafe</characteristic>
+                    <characteristic name="DMG" typeId="bd77-31aa-5209-2b6c">Force</characteristic>
+                    <characteristic name="TYP" typeId="684a-ebe0-b4ae-1d02">Melee</characteristic>
+                    <characteristic name="RNG" typeId="a6dd-0c75-98a7-e08a">1</characteristic>
+                    <characteristic name="POW" typeId="9750-e740-35f4-1cf6">3</characteristic>
+                    <characteristic name="Rules" typeId="b9f6-e564-4386-9830">Repulsor</characteristic>
                   </characteristics>
                 </profile>
               </profiles>
               <costs>
-                <cost name="Weapon Points" typeId="ecbb-d452-36d4-0214" value="2.0"/>
+                <cost name="Weapon Points" typeId="ecbb-d452-36d4-0214" value="1.0"/>
               </costs>
             </selection>
           </selections>
@@ -288,332 +277,10 @@
             <cost name="Weapon Points" typeId="ecbb-d452-36d4-0214" value="0.0"/>
           </costs>
           <categories>
-            <category id="09e2-2d1a-e60f-48b3" name="Units" entryId="63b7-c3cd-7f99-1cf0" primary="true"/>
+            <category id="d5d8-acc6-cb5a-da56" name="Units" entryId="63b7-c3cd-7f99-1cf0" primary="true"/>
           </categories>
         </selection>
-        <selection id="2fa5-1809-962c-d321" name="Paladin Commander" entryId="4df4-16e0-ff6f-8689" number="1" type="model">
-          <rules>
-            <rule id="29a0-dc88-3bb3-f65e::f617-cd36-a4f8-cd90" name="Command Interface (Paladin) (Spike)" hidden="false">
-              <description>During its activation, this model can spike to remove an activation token from a friendly Paladin squad within 10&quot; of it.</description>
-            </rule>
-            <rule id="a715-b364-df53-d99c::17ec-c1b8-c3fb-459f" name="Compound Armor" hidden="false">
-              <description>This model gains +1 ARM against explosion damage.</description>
-            </rule>
-            <rule id="5e58-02ab-1b86-0f67::2cb7-ba4d-ce4d-4e27" name="Reflex Accelerator (Charge)" hidden="false">
-              <description>When this model makes its attacks during its activation while it is charged, it can attack with both its weapons.</description>
-            </rule>
-            <rule id="1448-8908-21f3-5cb2::4478-b4bd-42be-09e2" name="Blast Weapon" hidden="false">
-              <description>This is a Blast Weapon.</description>
-            </rule>
-          </rules>
-          <profiles>
-            <profile id="c7f7-731e-963d-9a0c" name="Paladin Commander" hidden="false" typeId="5643-55ad-cf84-ac2a" typeName="Solo">
-              <characteristics>
-                <characteristic name="SPD" typeId="e7f7-8a52-6885-3006">6</characteristic>
-                <characteristic name="MAT" typeId="b4d4-69fe-dd8c-7c12">4</characteristic>
-                <characteristic name="RAT" typeId="3127-5d41-efdc-a87d">4</characteristic>
-                <characteristic name="DEF" typeId="8355-c44c-010d-9a88">3</characteristic>
-                <characteristic name="ARM" typeId="d0c1-80eb-f256-6b2f">3</characteristic>
-                <characteristic name="FOC" typeId="b34d-3c07-68b0-ec80">-</characteristic>
-                <characteristic name="DMG" typeId="76be-0810-d006-512c">2</characteristic>
-                <characteristic name="CST" typeId="50cb-a3c5-93ef-21c0">1</characteristic>
-              </characteristics>
-            </profile>
-            <profile id="57af-a5ac-e5a4-ce2d::da37-9cac-c150-96b5" name="Fusion Sword" hidden="false" typeId="3601-946f-42f1-0f5c" typeName="Weapon">
-              <characteristics>
-                <characteristic name="DMG" typeId="bd77-31aa-5209-2b6c">Kinetic</characteristic>
-                <characteristic name="TYP" typeId="684a-ebe0-b4ae-1d02">Melee</characteristic>
-                <characteristic name="RNG" typeId="a6dd-0c75-98a7-e08a">1</characteristic>
-                <characteristic name="POW" typeId="9750-e740-35f4-1cf6">4</characteristic>
-                <characteristic name="Rules" typeId="b9f6-e564-4386-9830"/>
-              </characteristics>
-            </profile>
-            <profile id="f9cf-890b-d64f-d404::9828-e26b-6ead-00a8" name="Pulse Cannon" hidden="false" typeId="3601-946f-42f1-0f5c" typeName="Weapon">
-              <characteristics>
-                <characteristic name="DMG" typeId="bd77-31aa-5209-2b6c">Explosion and Force</characteristic>
-                <characteristic name="TYP" typeId="684a-ebe0-b4ae-1d02">Ranged</characteristic>
-                <characteristic name="RNG" typeId="a6dd-0c75-98a7-e08a">10</characteristic>
-                <characteristic name="POW" typeId="9750-e740-35f4-1cf6">3</characteristic>
-                <characteristic name="Rules" typeId="b9f6-e564-4386-9830">Blast Weapon</characteristic>
-              </characteristics>
-            </profile>
-          </profiles>
-          <costs>
-            <cost name="Weapon Points" typeId="ecbb-d452-36d4-0214" value="0.0"/>
-          </costs>
-          <categories>
-            <category id="ab59-d79a-4ef8-bb3b" name="Units" entryId="63b7-c3cd-7f99-1cf0" primary="true"/>
-          </categories>
-        </selection>
-        <selection id="7df4-c004-d24a-2899" name="Paladin Commander" entryId="4df4-16e0-ff6f-8689" number="1" type="model">
-          <rules>
-            <rule id="29a0-dc88-3bb3-f65e::f617-cd36-a4f8-cd90" name="Command Interface (Paladin) (Spike)" hidden="false">
-              <description>During its activation, this model can spike to remove an activation token from a friendly Paladin squad within 10&quot; of it.</description>
-            </rule>
-            <rule id="a715-b364-df53-d99c::17ec-c1b8-c3fb-459f" name="Compound Armor" hidden="false">
-              <description>This model gains +1 ARM against explosion damage.</description>
-            </rule>
-            <rule id="5e58-02ab-1b86-0f67::2cb7-ba4d-ce4d-4e27" name="Reflex Accelerator (Charge)" hidden="false">
-              <description>When this model makes its attacks during its activation while it is charged, it can attack with both its weapons.</description>
-            </rule>
-            <rule id="1448-8908-21f3-5cb2::4478-b4bd-42be-09e2" name="Blast Weapon" hidden="false">
-              <description>This is a Blast Weapon.</description>
-            </rule>
-          </rules>
-          <profiles>
-            <profile id="c7f7-731e-963d-9a0c" name="Paladin Commander" hidden="false" typeId="5643-55ad-cf84-ac2a" typeName="Solo">
-              <characteristics>
-                <characteristic name="SPD" typeId="e7f7-8a52-6885-3006">6</characteristic>
-                <characteristic name="MAT" typeId="b4d4-69fe-dd8c-7c12">4</characteristic>
-                <characteristic name="RAT" typeId="3127-5d41-efdc-a87d">4</characteristic>
-                <characteristic name="DEF" typeId="8355-c44c-010d-9a88">3</characteristic>
-                <characteristic name="ARM" typeId="d0c1-80eb-f256-6b2f">3</characteristic>
-                <characteristic name="FOC" typeId="b34d-3c07-68b0-ec80">-</characteristic>
-                <characteristic name="DMG" typeId="76be-0810-d006-512c">2</characteristic>
-                <characteristic name="CST" typeId="50cb-a3c5-93ef-21c0">1</characteristic>
-              </characteristics>
-            </profile>
-            <profile id="57af-a5ac-e5a4-ce2d::da37-9cac-c150-96b5" name="Fusion Sword" hidden="false" typeId="3601-946f-42f1-0f5c" typeName="Weapon">
-              <characteristics>
-                <characteristic name="DMG" typeId="bd77-31aa-5209-2b6c">Kinetic</characteristic>
-                <characteristic name="TYP" typeId="684a-ebe0-b4ae-1d02">Melee</characteristic>
-                <characteristic name="RNG" typeId="a6dd-0c75-98a7-e08a">1</characteristic>
-                <characteristic name="POW" typeId="9750-e740-35f4-1cf6">4</characteristic>
-                <characteristic name="Rules" typeId="b9f6-e564-4386-9830"/>
-              </characteristics>
-            </profile>
-            <profile id="f9cf-890b-d64f-d404::9828-e26b-6ead-00a8" name="Pulse Cannon" hidden="false" typeId="3601-946f-42f1-0f5c" typeName="Weapon">
-              <characteristics>
-                <characteristic name="DMG" typeId="bd77-31aa-5209-2b6c">Explosion and Force</characteristic>
-                <characteristic name="TYP" typeId="684a-ebe0-b4ae-1d02">Ranged</characteristic>
-                <characteristic name="RNG" typeId="a6dd-0c75-98a7-e08a">10</characteristic>
-                <characteristic name="POW" typeId="9750-e740-35f4-1cf6">3</characteristic>
-                <characteristic name="Rules" typeId="b9f6-e564-4386-9830">Blast Weapon</characteristic>
-              </characteristics>
-            </profile>
-          </profiles>
-          <costs>
-            <cost name="Weapon Points" typeId="ecbb-d452-36d4-0214" value="0.0"/>
-          </costs>
-          <categories>
-            <category id="bfbf-8a27-fd0c-1098" name="Units" entryId="63b7-c3cd-7f99-1cf0" primary="true"/>
-          </categories>
-        </selection>
-        <selection id="f96c-72b3-c9d7-7688" name="Paladin Enforcers" entryId="bdd8-99b0-f98b-92b5" number="1" type="unit">
-          <rules>
-            <rule id="4824-a6bc-f7d0-8dbc::17ec-c1b8-c3fb-459f" name="Compound Armor" hidden="false">
-              <description>This model gains +1 ARM against explosion damage.</description>
-            </rule>
-            <rule id="5007-fbc6-b28d-101f::4e5f-ca6e-a6ae-da51" name="Divination Lock (Spike)" hidden="false">
-              <description>During its activation, this squad can spike to ignore cover and Stealth for the rest of its activation.</description>
-            </rule>
-            <rule id="842e-db5c-bc71-cb48::2cb7-ba4d-ce4d-4e27" name="Reflex Accelerator (Charge)" hidden="false">
-              <description>When this model makes its attacks during its activation while it is charged, it can attack with both its weapons.</description>
-            </rule>
-          </rules>
-          <profiles>
-            <profile id="cf0d-64a6-1b8c-69a1" name="Paladin Enforcers" hidden="false" typeId="ee5b-45d6-6439-5c83" typeName="Squad">
-              <characteristics>
-                <characteristic name="SPD" typeId="63e0-b44a-50f3-5d3f">6</characteristic>
-                <characteristic name="MAT" typeId="0a8b-a206-4acf-92ae">3</characteristic>
-                <characteristic name="RAT" typeId="d86f-3c79-7c50-0502">3</characteristic>
-                <characteristic name="DEF" typeId="d2bf-4ab1-bbd1-c53d">3</characteristic>
-                <characteristic name="ARM" typeId="df58-c0c5-6903-dd53">3</characteristic>
-                <characteristic name="NUM" typeId="cc5f-a02a-8153-9031">3</characteristic>
-                <characteristic name="CST" typeId="403d-0963-ce1f-565d">2</characteristic>
-              </characteristics>
-            </profile>
-            <profile id="3d24-f87e-9ec1-bce8::a669-670b-4692-9886" name="Assault Rifle" hidden="false" typeId="3601-946f-42f1-0f5c" typeName="Weapon">
-              <characteristics>
-                <characteristic name="DMG" typeId="bd77-31aa-5209-2b6c">Ballistic</characteristic>
-                <characteristic name="TYP" typeId="684a-ebe0-b4ae-1d02">Ranged</characteristic>
-                <characteristic name="RNG" typeId="a6dd-0c75-98a7-e08a">12</characteristic>
-                <characteristic name="POW" typeId="9750-e740-35f4-1cf6">4</characteristic>
-                <characteristic name="Rules" typeId="b9f6-e564-4386-9830"/>
-              </characteristics>
-            </profile>
-            <profile id="c7d2-a4a3-7dd4-b222::d5e7-173e-2edd-379f" name="Bayonet" hidden="false" typeId="3601-946f-42f1-0f5c" typeName="Weapon">
-              <characteristics>
-                <characteristic name="DMG" typeId="bd77-31aa-5209-2b6c">Kinetic</characteristic>
-                <characteristic name="TYP" typeId="684a-ebe0-b4ae-1d02">Melee</characteristic>
-                <characteristic name="RNG" typeId="a6dd-0c75-98a7-e08a">1</characteristic>
-                <characteristic name="POW" typeId="9750-e740-35f4-1cf6">3</characteristic>
-                <characteristic name="Rules" typeId="b9f6-e564-4386-9830"/>
-              </characteristics>
-            </profile>
-          </profiles>
-          <costs>
-            <cost name="Weapon Points" typeId="ecbb-d452-36d4-0214" value="0.0"/>
-          </costs>
-          <categories>
-            <category id="4038-f5c6-b7c3-eb2c" name="Units" entryId="63b7-c3cd-7f99-1cf0" primary="true"/>
-          </categories>
-        </selection>
-        <selection id="0ed1-3711-9720-400f" name="Paladin Enforcers" entryId="bdd8-99b0-f98b-92b5" number="1" type="unit">
-          <rules>
-            <rule id="4824-a6bc-f7d0-8dbc::17ec-c1b8-c3fb-459f" name="Compound Armor" hidden="false">
-              <description>This model gains +1 ARM against explosion damage.</description>
-            </rule>
-            <rule id="5007-fbc6-b28d-101f::4e5f-ca6e-a6ae-da51" name="Divination Lock (Spike)" hidden="false">
-              <description>During its activation, this squad can spike to ignore cover and Stealth for the rest of its activation.</description>
-            </rule>
-            <rule id="842e-db5c-bc71-cb48::2cb7-ba4d-ce4d-4e27" name="Reflex Accelerator (Charge)" hidden="false">
-              <description>When this model makes its attacks during its activation while it is charged, it can attack with both its weapons.</description>
-            </rule>
-          </rules>
-          <profiles>
-            <profile id="cf0d-64a6-1b8c-69a1" name="Paladin Enforcers" hidden="false" typeId="ee5b-45d6-6439-5c83" typeName="Squad">
-              <characteristics>
-                <characteristic name="SPD" typeId="63e0-b44a-50f3-5d3f">6</characteristic>
-                <characteristic name="MAT" typeId="0a8b-a206-4acf-92ae">3</characteristic>
-                <characteristic name="RAT" typeId="d86f-3c79-7c50-0502">3</characteristic>
-                <characteristic name="DEF" typeId="d2bf-4ab1-bbd1-c53d">3</characteristic>
-                <characteristic name="ARM" typeId="df58-c0c5-6903-dd53">3</characteristic>
-                <characteristic name="NUM" typeId="cc5f-a02a-8153-9031">3</characteristic>
-                <characteristic name="CST" typeId="403d-0963-ce1f-565d">2</characteristic>
-              </characteristics>
-            </profile>
-            <profile id="3d24-f87e-9ec1-bce8::a669-670b-4692-9886" name="Assault Rifle" hidden="false" typeId="3601-946f-42f1-0f5c" typeName="Weapon">
-              <characteristics>
-                <characteristic name="DMG" typeId="bd77-31aa-5209-2b6c">Ballistic</characteristic>
-                <characteristic name="TYP" typeId="684a-ebe0-b4ae-1d02">Ranged</characteristic>
-                <characteristic name="RNG" typeId="a6dd-0c75-98a7-e08a">12</characteristic>
-                <characteristic name="POW" typeId="9750-e740-35f4-1cf6">4</characteristic>
-                <characteristic name="Rules" typeId="b9f6-e564-4386-9830"/>
-              </characteristics>
-            </profile>
-            <profile id="c7d2-a4a3-7dd4-b222::d5e7-173e-2edd-379f" name="Bayonet" hidden="false" typeId="3601-946f-42f1-0f5c" typeName="Weapon">
-              <characteristics>
-                <characteristic name="DMG" typeId="bd77-31aa-5209-2b6c">Kinetic</characteristic>
-                <characteristic name="TYP" typeId="684a-ebe0-b4ae-1d02">Melee</characteristic>
-                <characteristic name="RNG" typeId="a6dd-0c75-98a7-e08a">1</characteristic>
-                <characteristic name="POW" typeId="9750-e740-35f4-1cf6">3</characteristic>
-                <characteristic name="Rules" typeId="b9f6-e564-4386-9830"/>
-              </characteristics>
-            </profile>
-          </profiles>
-          <costs>
-            <cost name="Weapon Points" typeId="ecbb-d452-36d4-0214" value="0.0"/>
-          </costs>
-          <categories>
-            <category id="b180-b8e8-b34d-0439" name="Units" entryId="63b7-c3cd-7f99-1cf0" primary="true"/>
-          </categories>
-        </selection>
-        <selection id="7146-9b0a-9793-0a02" name="Paladin Weaver" entryId="95c1-7e10-92f0-8d01" number="1" type="model">
-          <rules>
-            <rule id="6f69-6f53-1dfe-b255::3ed5-a2a6-44a7-9c1d" name="Arc Relay (12)" hidden="false">
-              <description>This model can channel Fury Cyphers. A Fury Cypher channeled through this model is RNG 12.</description>
-            </rule>
-            <rule id="473a-1e4d-8c2d-6ff9::a4ab-9b99-4e38-42f9" name="Arcantrik Amplifier (Charge)" hidden="false">
-              <description>While this model is charged, Fury Cyphers channeled through it gain +5 RNG.</description>
-            </rule>
-            <rule id="8a55-b781-f91d-5650::17ec-c1b8-c3fb-459f" name="Compound Armor" hidden="false">
-              <description>This model gains +1 ARM against explosion damage.</description>
-            </rule>
-            <rule id="0600-c1f3-45a2-51af::c9e6-a3b3-fe05-7295" name="Realignment Codex (Spike)" hidden="false">
-              <description>Once per activation, this unit can spike to use Realignment Codex. When it does so, youcan clear any amount of Arc from one friendly unit within 10&quot; of this model or charge one unit with any amount of Arc up to its limit.</description>
-            </rule>
-            <rule id="839d-24d3-e9ab-36d8::f174-cd6d-3802-1cbc" name="Null Strike" hidden="false">
-              <description>Clear 1 Arc from the unit or void gate hit by this weapon.</description>
-            </rule>
-          </rules>
-          <profiles>
-            <profile id="80dd-89c0-7940-6a2a" name="Paladin Weaver" hidden="false" typeId="5643-55ad-cf84-ac2a" typeName="Solo">
-              <characteristics>
-                <characteristic name="SPD" typeId="e7f7-8a52-6885-3006">6</characteristic>
-                <characteristic name="MAT" typeId="b4d4-69fe-dd8c-7c12">3</characteristic>
-                <characteristic name="RAT" typeId="3127-5d41-efdc-a87d">3</characteristic>
-                <characteristic name="DEF" typeId="8355-c44c-010d-9a88">3</characteristic>
-                <characteristic name="ARM" typeId="d0c1-80eb-f256-6b2f">3</characteristic>
-                <characteristic name="FOC" typeId="b34d-3c07-68b0-ec80">4</characteristic>
-                <characteristic name="DMG" typeId="76be-0810-d006-512c">2</characteristic>
-                <characteristic name="CST" typeId="50cb-a3c5-93ef-21c0">1</characteristic>
-              </characteristics>
-            </profile>
-            <profile id="60ef-771d-9fca-cc8e::fa30-c94b-dcf7-e67e" name="Handgun" hidden="false" typeId="3601-946f-42f1-0f5c" typeName="Weapon">
-              <characteristics>
-                <characteristic name="DMG" typeId="bd77-31aa-5209-2b6c">Ballistic</characteristic>
-                <characteristic name="TYP" typeId="684a-ebe0-b4ae-1d02">Ranged</characteristic>
-                <characteristic name="RNG" typeId="a6dd-0c75-98a7-e08a">8</characteristic>
-                <characteristic name="POW" typeId="9750-e740-35f4-1cf6">3</characteristic>
-                <characteristic name="Rules" typeId="b9f6-e564-4386-9830"/>
-              </characteristics>
-            </profile>
-            <profile id="db79-0c3e-92d5-4299::b8e5-a35e-a3f3-26c5" name="Null Hammer" hidden="false" typeId="3601-946f-42f1-0f5c" typeName="Weapon">
-              <characteristics>
-                <characteristic name="DMG" typeId="bd77-31aa-5209-2b6c">Kinetic</characteristic>
-                <characteristic name="TYP" typeId="684a-ebe0-b4ae-1d02">Melee</characteristic>
-                <characteristic name="RNG" typeId="a6dd-0c75-98a7-e08a">1</characteristic>
-                <characteristic name="POW" typeId="9750-e740-35f4-1cf6">4</characteristic>
-                <characteristic name="Rules" typeId="b9f6-e564-4386-9830">Null Strike</characteristic>
-              </characteristics>
-            </profile>
-          </profiles>
-          <costs>
-            <cost name="Weapon Points" typeId="ecbb-d452-36d4-0214" value="0.0"/>
-          </costs>
-          <categories>
-            <category id="075d-9545-3c2f-605d" name="Units" entryId="63b7-c3cd-7f99-1cf0" primary="true"/>
-          </categories>
-        </selection>
-        <selection id="05dc-5cc2-2db4-e490" name="Paladin Weaver" entryId="95c1-7e10-92f0-8d01" number="1" type="model">
-          <rules>
-            <rule id="6f69-6f53-1dfe-b255::3ed5-a2a6-44a7-9c1d" name="Arc Relay (12)" hidden="false">
-              <description>This model can channel Fury Cyphers. A Fury Cypher channeled through this model is RNG 12.</description>
-            </rule>
-            <rule id="473a-1e4d-8c2d-6ff9::a4ab-9b99-4e38-42f9" name="Arcantrik Amplifier (Charge)" hidden="false">
-              <description>While this model is charged, Fury Cyphers channeled through it gain +5 RNG.</description>
-            </rule>
-            <rule id="8a55-b781-f91d-5650::17ec-c1b8-c3fb-459f" name="Compound Armor" hidden="false">
-              <description>This model gains +1 ARM against explosion damage.</description>
-            </rule>
-            <rule id="0600-c1f3-45a2-51af::c9e6-a3b3-fe05-7295" name="Realignment Codex (Spike)" hidden="false">
-              <description>Once per activation, this unit can spike to use Realignment Codex. When it does so, youcan clear any amount of Arc from one friendly unit within 10&quot; of this model or charge one unit with any amount of Arc up to its limit.</description>
-            </rule>
-            <rule id="839d-24d3-e9ab-36d8::f174-cd6d-3802-1cbc" name="Null Strike" hidden="false">
-              <description>Clear 1 Arc from the unit or void gate hit by this weapon.</description>
-            </rule>
-          </rules>
-          <profiles>
-            <profile id="80dd-89c0-7940-6a2a" name="Paladin Weaver" hidden="false" typeId="5643-55ad-cf84-ac2a" typeName="Solo">
-              <characteristics>
-                <characteristic name="SPD" typeId="e7f7-8a52-6885-3006">6</characteristic>
-                <characteristic name="MAT" typeId="b4d4-69fe-dd8c-7c12">3</characteristic>
-                <characteristic name="RAT" typeId="3127-5d41-efdc-a87d">3</characteristic>
-                <characteristic name="DEF" typeId="8355-c44c-010d-9a88">3</characteristic>
-                <characteristic name="ARM" typeId="d0c1-80eb-f256-6b2f">3</characteristic>
-                <characteristic name="FOC" typeId="b34d-3c07-68b0-ec80">4</characteristic>
-                <characteristic name="DMG" typeId="76be-0810-d006-512c">2</characteristic>
-                <characteristic name="CST" typeId="50cb-a3c5-93ef-21c0">1</characteristic>
-              </characteristics>
-            </profile>
-            <profile id="60ef-771d-9fca-cc8e::fa30-c94b-dcf7-e67e" name="Handgun" hidden="false" typeId="3601-946f-42f1-0f5c" typeName="Weapon">
-              <characteristics>
-                <characteristic name="DMG" typeId="bd77-31aa-5209-2b6c">Ballistic</characteristic>
-                <characteristic name="TYP" typeId="684a-ebe0-b4ae-1d02">Ranged</characteristic>
-                <characteristic name="RNG" typeId="a6dd-0c75-98a7-e08a">8</characteristic>
-                <characteristic name="POW" typeId="9750-e740-35f4-1cf6">3</characteristic>
-                <characteristic name="Rules" typeId="b9f6-e564-4386-9830"/>
-              </characteristics>
-            </profile>
-            <profile id="db79-0c3e-92d5-4299::b8e5-a35e-a3f3-26c5" name="Null Hammer" hidden="false" typeId="3601-946f-42f1-0f5c" typeName="Weapon">
-              <characteristics>
-                <characteristic name="DMG" typeId="bd77-31aa-5209-2b6c">Kinetic</characteristic>
-                <characteristic name="TYP" typeId="684a-ebe0-b4ae-1d02">Melee</characteristic>
-                <characteristic name="RNG" typeId="a6dd-0c75-98a7-e08a">1</characteristic>
-                <characteristic name="POW" typeId="9750-e740-35f4-1cf6">4</characteristic>
-                <characteristic name="Rules" typeId="b9f6-e564-4386-9830">Null Strike</characteristic>
-              </characteristics>
-            </profile>
-          </profiles>
-          <costs>
-            <cost name="Weapon Points" typeId="ecbb-d452-36d4-0214" value="0.0"/>
-          </costs>
-          <categories>
-            <category id="816f-0c87-be93-30e6" name="Units" entryId="63b7-c3cd-7f99-1cf0" primary="true"/>
-          </categories>
-        </selection>
-        <selection id="3872-cbda-5172-154a" name="Morningstar" entryId="ecd9-2168-517a-5943" number="1" type="model">
+        <selection id="6d1f-6b12-c898-ec02" name="Morningstar" entryId="ecd9-2168-517a-5943" number="1" type="model">
           <rules>
             <rule id="dbba-2372-9457-731f::e532-a22c-5f39-54d3" name="Range Amplifier (Charge)" hidden="false">
               <description>For each Arc this model is charged with, this model&apos;s ranged weapons gain +1 RNG.</description>
@@ -637,38 +304,38 @@
             </profile>
           </profiles>
           <selections>
-            <selection id="611c-6408-a9e8-1d2b" name="Defender" entryId="de8f-09f2-fc7b-f87b" entryGroupId="ea42-bd1f-8b22-2d66" number="1" type="upgrade">
+            <selection id="9d96-e0a0-74b2-5234" name="Deadeye Cortex" entryId="1f7a-2fc6-99d9-0ccd" entryGroupId="ea42-bd1f-8b22-2d66" number="1" type="upgrade">
               <rules>
-                <rule id="7319-3fac-efce-6de3::ec44-3a92-93db-2564" name="Intercept Driver (Spike)" hidden="false">
-                  <description>When a friendly model is targeted and hit by an enemy attack while within 5&quot; of this model, this model can spike to be hit instead on the model originally targeted.</description>
+                <rule id="0b40-a41d-928c-4b2a::c8f4-25c2-f013-c8b2" name="Revelator" hidden="false">
+                  <description>When making ranged attacks, this model ignores Stealth.</description>
                 </rule>
               </rules>
               <costs>
                 <cost name="Weapon Points" typeId="ecbb-d452-36d4-0214" value="0.0"/>
               </costs>
             </selection>
-            <selection id="a617-f653-b260-b337" name="Assault Shield" entryId="83ba-c6f3-1736-942f::5d55-430b-40c5-d090" entryGroupId="1e9f-7176-6d47-690e" number="1" type="upgrade">
+            <selection id="f314-91e6-e706-e07d" name="Heavy Fusion Glaive" entryId="0299-7332-18b3-5566::d567-ff1c-0c77-e2c3" entryGroupId="1e9f-7176-6d47-690e" number="1" type="upgrade">
               <rules>
-                <rule id="83ba-c6f3-1736-942f::f3df-ac9f-d83f-2598::ced4-3c62-3606-31ca" name="Shield" hidden="false">
-                  <description>This model gainst +1 ARM. This bonus is cumulative with additional Shield weapons.</description>
+                <rule id="0299-7332-18b3-5566::76e7-cf63-e1ad-d293::f45d-f7bc-3379-d648" name="Power Attack (Spike)" hidden="false">
+                  <description>Immediately after hitting a warjack with this weapon, this model can spike to cause the warjack to suffer the system failure continuous effect.</description>
                 </rule>
               </rules>
               <profiles>
-                <profile id="83ba-c6f3-1736-942f::dac3-776f-1327-0d24::dd1a-a06d-d223-1974" name="Assault Shield" hidden="false" typeId="3601-946f-42f1-0f5c" typeName="Weapon">
+                <profile id="0299-7332-18b3-5566::07e2-0aa9-fc0f-f6a4::8dcb-ab78-c63a-4774" name="Heavy Fusion Glaive" hidden="false" typeId="3601-946f-42f1-0f5c" typeName="Weapon">
                   <characteristics>
                     <characteristic name="DMG" typeId="bd77-31aa-5209-2b6c">Kinetic</characteristic>
                     <characteristic name="TYP" typeId="684a-ebe0-b4ae-1d02">Melee</characteristic>
                     <characteristic name="RNG" typeId="a6dd-0c75-98a7-e08a">1</characteristic>
-                    <characteristic name="POW" typeId="9750-e740-35f4-1cf6">4</characteristic>
-                    <characteristic name="Rules" typeId="b9f6-e564-4386-9830">Shield</characteristic>
+                    <characteristic name="POW" typeId="9750-e740-35f4-1cf6">6</characteristic>
+                    <characteristic name="Rules" typeId="b9f6-e564-4386-9830">Power Attack (Spike)</characteristic>
                   </characteristics>
                 </profile>
               </profiles>
               <costs>
-                <cost name="Weapon Points" typeId="ecbb-d452-36d4-0214" value="1.0"/>
+                <cost name="Weapon Points" typeId="ecbb-d452-36d4-0214" value="2.0"/>
               </costs>
             </selection>
-            <selection id="d686-4849-fa9a-eec6" name="Null Cannon" entryId="063b-556c-a047-f11c::a3b7-d885-c0ce-0023" entryGroupId="580b-3607-015d-b743" number="1" type="upgrade">
+            <selection id="cdbe-7783-7440-48f9" name="Null Cannon" entryId="063b-556c-a047-f11c::a3b7-d885-c0ce-0023" entryGroupId="580b-3607-015d-b743" number="1" type="upgrade">
               <rules>
                 <rule id="063b-556c-a047-f11c::37a0-7360-0ff9-a1f9::f174-cd6d-3802-1cbc" name="Null Strike" hidden="false">
                   <description>Clear 1 Arc from the unit or void gate hit by this weapon.</description>
@@ -689,7 +356,7 @@
                 <cost name="Weapon Points" typeId="ecbb-d452-36d4-0214" value="3.0"/>
               </costs>
             </selection>
-            <selection id="e163-ffd4-7bd4-a789" name="Assault Shield" entryId="ff54-7501-034f-fdc9::5d55-430b-40c5-d090" entryGroupId="a5cc-781e-8d4d-ab9e" number="1" type="upgrade">
+            <selection id="0f6f-e61f-41f8-64b0" name="Assault Shield" entryId="ff54-7501-034f-fdc9::5d55-430b-40c5-d090" entryGroupId="a5cc-781e-8d4d-ab9e" number="1" type="upgrade">
               <rules>
                 <rule id="ff54-7501-034f-fdc9::f3df-ac9f-d83f-2598::ced4-3c62-3606-31ca" name="Shield" hidden="false">
                   <description>This model gainst +1 ARM. This bonus is cumulative with additional Shield weapons.</description>
@@ -710,25 +377,28 @@
                 <cost name="Weapon Points" typeId="ecbb-d452-36d4-0214" value="1.0"/>
               </costs>
             </selection>
-            <selection id="97c0-27b4-3eea-eab9" name="Null Cannon" entryId="4d33-ea4c-22ce-82b6::a3b7-d885-c0ce-0023" entryGroupId="6137-1475-9e1a-8168" number="1" type="upgrade">
+            <selection id="34f3-dae6-9d6b-e5f6" name="Harbinger Cannon" entryId="d095-a8ed-b87d-f622::1470-2f06-63ec-db51" entryGroupId="6137-1475-9e1a-8168" number="1" type="upgrade">
               <rules>
-                <rule id="4d33-ea4c-22ce-82b6::37a0-7360-0ff9-a1f9::f174-cd6d-3802-1cbc" name="Null Strike" hidden="false">
-                  <description>Clear 1 Arc from the unit or void gate hit by this weapon.</description>
+                <rule id="d095-a8ed-b87d-f622::1b0f-a528-b42f-c992::cb00-7571-a4fd-84d6" name="Hunter-Killer Rounds (Spike)" hidden="false">
+                  <description>When making an attack with this weapon, this model can spike to ignore line of sight and cover when declaring the target and resolving the attack.</description>
+                </rule>
+                <rule id="d095-a8ed-b87d-f622::09f5-f9e1-b259-1319::77e6-c811-aef4-ee7f" name="Strafe" hidden="false">
+                  <description>After declaring an attack wtih this weapon and its target, roll one power die. For each strike rolled, you can make one additional attack against another model within 2&quot; of the initial target. Each attack must target a different model. Additonal attacks cannot generate additional Strafe attacks.</description>
                 </rule>
               </rules>
               <profiles>
-                <profile id="4d33-ea4c-22ce-82b6::f6c5-5e27-f390-6d9c::060f-6de4-deeb-6f29" name="Null Cannon" hidden="false" typeId="3601-946f-42f1-0f5c" typeName="Weapon">
+                <profile id="d095-a8ed-b87d-f622::3b7f-2042-b0ce-5253::34fc-3815-d467-5147" name="Harbinger Cannon" hidden="false" typeId="3601-946f-42f1-0f5c" typeName="Weapon">
                   <characteristics>
-                    <characteristic name="DMG" typeId="bd77-31aa-5209-2b6c">Energy</characteristic>
+                    <characteristic name="DMG" typeId="bd77-31aa-5209-2b6c">Ballistic</characteristic>
                     <characteristic name="TYP" typeId="684a-ebe0-b4ae-1d02">Ranged</characteristic>
-                    <characteristic name="RNG" typeId="a6dd-0c75-98a7-e08a">14</characteristic>
-                    <characteristic name="POW" typeId="9750-e740-35f4-1cf6">5</characteristic>
-                    <characteristic name="Rules" typeId="b9f6-e564-4386-9830">Null Strike</characteristic>
+                    <characteristic name="RNG" typeId="a6dd-0c75-98a7-e08a">12</characteristic>
+                    <characteristic name="POW" typeId="9750-e740-35f4-1cf6">4</characteristic>
+                    <characteristic name="Rules" typeId="b9f6-e564-4386-9830">Hunter-Killer Rounds (Spike), Strafe</characteristic>
                   </characteristics>
                 </profile>
               </profiles>
               <costs>
-                <cost name="Weapon Points" typeId="ecbb-d452-36d4-0214" value="3.0"/>
+                <cost name="Weapon Points" typeId="ecbb-d452-36d4-0214" value="2.0"/>
               </costs>
             </selection>
           </selections>
@@ -736,17 +406,278 @@
             <cost name="Weapon Points" typeId="ecbb-d452-36d4-0214" value="0.0"/>
           </costs>
           <categories>
-            <category id="5e17-8a36-414b-aca8" name="Units" entryId="63b7-c3cd-7f99-1cf0" primary="true"/>
+            <category id="f625-ff3d-2f11-dc8d" name="Units" entryId="63b7-c3cd-7f99-1cf0" primary="true"/>
+          </categories>
+        </selection>
+        <selection id="8de2-74a4-e1a1-1edf" name="Paladin Annihilators" entryId="b723-e423-c97d-0324" number="1" type="unit">
+          <rules>
+            <rule id="e99f-5164-46cf-e19a::17ec-c1b8-c3fb-459f" name="Compound Armor" hidden="false">
+              <description>This model gains +1 ARM against explosion damage.</description>
+            </rule>
+            <rule id="9cf8-e0a0-49a6-ffaa::6e59-f079-4476-730f" name="Smart Lock (Charge)" hidden="false">
+              <description>While charged, this model ignores cover when making a ranged attack.</description>
+            </rule>
+            <rule id="7281-5616-be1c-b0e1::cb00-7571-a4fd-84d6" name="Hunter-Killer Rounds (Spike)" hidden="false">
+              <description>When making an attack with this weapon, this model can spike to ignore line of sight and cover when declaring the target and resolving the attack.</description>
+            </rule>
+            <rule id="f537-55a5-aa12-abd3::77e6-c811-aef4-ee7f" name="Strafe" hidden="false">
+              <description>After declaring an attack wtih this weapon and its target, roll one power die. For each strike rolled, you can make one additional attack against another model within 2&quot; of the initial target. Each attack must target a different model. Additonal attacks cannot generate additional Strafe attacks.</description>
+            </rule>
+          </rules>
+          <profiles>
+            <profile id="2897-21f1-a8d3-3381" name="Paladin Annihilators" hidden="false" typeId="ee5b-45d6-6439-5c83" typeName="Squad">
+              <characteristics>
+                <characteristic name="SPD" typeId="63e0-b44a-50f3-5d3f">4</characteristic>
+                <characteristic name="MAT" typeId="0a8b-a206-4acf-92ae">3</characteristic>
+                <characteristic name="RAT" typeId="d86f-3c79-7c50-0502">3</characteristic>
+                <characteristic name="DEF" typeId="d2bf-4ab1-bbd1-c53d">3</characteristic>
+                <characteristic name="ARM" typeId="df58-c0c5-6903-dd53">3</characteristic>
+                <characteristic name="NUM" typeId="cc5f-a02a-8153-9031">3</characteristic>
+                <characteristic name="CST" typeId="403d-0963-ce1f-565d">2</characteristic>
+              </characteristics>
+            </profile>
+            <profile id="3b94-c824-268b-d930::34fc-3815-d467-5147" name="Harbinger Cannon" hidden="false" typeId="3601-946f-42f1-0f5c" typeName="Weapon">
+              <characteristics>
+                <characteristic name="DMG" typeId="bd77-31aa-5209-2b6c">Ballistic</characteristic>
+                <characteristic name="TYP" typeId="684a-ebe0-b4ae-1d02">Ranged</characteristic>
+                <characteristic name="RNG" typeId="a6dd-0c75-98a7-e08a">12</characteristic>
+                <characteristic name="POW" typeId="9750-e740-35f4-1cf6">4</characteristic>
+                <characteristic name="Rules" typeId="b9f6-e564-4386-9830">Hunter-Killer Rounds (Spike), Strafe</characteristic>
+              </characteristics>
+            </profile>
+            <profile id="e446-29cd-3d3e-a581::d5e7-173e-2edd-379f" name="Bayonet" hidden="false" typeId="3601-946f-42f1-0f5c" typeName="Weapon">
+              <characteristics>
+                <characteristic name="DMG" typeId="bd77-31aa-5209-2b6c">Kinetic</characteristic>
+                <characteristic name="TYP" typeId="684a-ebe0-b4ae-1d02">Melee</characteristic>
+                <characteristic name="RNG" typeId="a6dd-0c75-98a7-e08a">1</characteristic>
+                <characteristic name="POW" typeId="9750-e740-35f4-1cf6">3</characteristic>
+                <characteristic name="Rules" typeId="b9f6-e564-4386-9830"/>
+              </characteristics>
+            </profile>
+          </profiles>
+          <costs>
+            <cost name="Weapon Points" typeId="ecbb-d452-36d4-0214" value="0.0"/>
+          </costs>
+          <categories>
+            <category id="a36a-7605-ecc0-e1a6" name="Units" entryId="63b7-c3cd-7f99-1cf0" primary="true"/>
+          </categories>
+        </selection>
+        <selection id="fef5-1985-c880-3eac" name="Paladin Commander" entryId="4df4-16e0-ff6f-8689" number="1" type="model">
+          <rules>
+            <rule id="29a0-dc88-3bb3-f65e::f617-cd36-a4f8-cd90" name="Command Interface (Paladin) (Spike)" hidden="false">
+              <description>During its activation, this model can spike to remove an activation token from a friendly Paladin squad within 10&quot; of it.</description>
+            </rule>
+            <rule id="a715-b364-df53-d99c::17ec-c1b8-c3fb-459f" name="Compound Armor" hidden="false">
+              <description>This model gains +1 ARM against explosion damage.</description>
+            </rule>
+            <rule id="5e58-02ab-1b86-0f67::2cb7-ba4d-ce4d-4e27" name="Reflex Accelerator (Charge)" hidden="false">
+              <description>When this model makes its attacks during its activation while it is charged, it can attack with both its weapons.</description>
+            </rule>
+            <rule id="1448-8908-21f3-5cb2::4478-b4bd-42be-09e2" name="Blast Weapon" hidden="false">
+              <description>This is a Blast Weapon.</description>
+            </rule>
+          </rules>
+          <profiles>
+            <profile id="c7f7-731e-963d-9a0c" name="Paladin Commander" hidden="false" typeId="5643-55ad-cf84-ac2a" typeName="Solo">
+              <characteristics>
+                <characteristic name="SPD" typeId="e7f7-8a52-6885-3006">6</characteristic>
+                <characteristic name="MAT" typeId="b4d4-69fe-dd8c-7c12">4</characteristic>
+                <characteristic name="RAT" typeId="3127-5d41-efdc-a87d">4</characteristic>
+                <characteristic name="DEF" typeId="8355-c44c-010d-9a88">3</characteristic>
+                <characteristic name="ARM" typeId="d0c1-80eb-f256-6b2f">3</characteristic>
+                <characteristic name="FOC" typeId="b34d-3c07-68b0-ec80">-</characteristic>
+                <characteristic name="DMG" typeId="76be-0810-d006-512c">2</characteristic>
+                <characteristic name="CST" typeId="50cb-a3c5-93ef-21c0">1</characteristic>
+              </characteristics>
+            </profile>
+            <profile id="57af-a5ac-e5a4-ce2d::da37-9cac-c150-96b5" name="Fusion Sword" hidden="false" typeId="3601-946f-42f1-0f5c" typeName="Weapon">
+              <characteristics>
+                <characteristic name="DMG" typeId="bd77-31aa-5209-2b6c">Kinetic</characteristic>
+                <characteristic name="TYP" typeId="684a-ebe0-b4ae-1d02">Melee</characteristic>
+                <characteristic name="RNG" typeId="a6dd-0c75-98a7-e08a">1</characteristic>
+                <characteristic name="POW" typeId="9750-e740-35f4-1cf6">4</characteristic>
+                <characteristic name="Rules" typeId="b9f6-e564-4386-9830"/>
+              </characteristics>
+            </profile>
+            <profile id="f9cf-890b-d64f-d404::9828-e26b-6ead-00a8" name="Pulse Cannon" hidden="false" typeId="3601-946f-42f1-0f5c" typeName="Weapon">
+              <characteristics>
+                <characteristic name="DMG" typeId="bd77-31aa-5209-2b6c">Explosion and Force</characteristic>
+                <characteristic name="TYP" typeId="684a-ebe0-b4ae-1d02">Ranged</characteristic>
+                <characteristic name="RNG" typeId="a6dd-0c75-98a7-e08a">10</characteristic>
+                <characteristic name="POW" typeId="9750-e740-35f4-1cf6">3</characteristic>
+                <characteristic name="Rules" typeId="b9f6-e564-4386-9830">Blast Weapon</characteristic>
+              </characteristics>
+            </profile>
+          </profiles>
+          <costs>
+            <cost name="Weapon Points" typeId="ecbb-d452-36d4-0214" value="0.0"/>
+          </costs>
+          <categories>
+            <category id="c67a-027a-9c62-f6be" name="Units" entryId="63b7-c3cd-7f99-1cf0" primary="true"/>
+          </categories>
+        </selection>
+        <selection id="ebaa-ca96-7893-6746" name="Paladin Enforcers" entryId="bdd8-99b0-f98b-92b5" number="1" type="unit">
+          <rules>
+            <rule id="4824-a6bc-f7d0-8dbc::17ec-c1b8-c3fb-459f" name="Compound Armor" hidden="false">
+              <description>This model gains +1 ARM against explosion damage.</description>
+            </rule>
+            <rule id="5007-fbc6-b28d-101f::4e5f-ca6e-a6ae-da51" name="Divination Lock (Spike)" hidden="false">
+              <description>During its activation, this squad can spike to ignore cover and Stealth for the rest of its activation.</description>
+            </rule>
+            <rule id="842e-db5c-bc71-cb48::2cb7-ba4d-ce4d-4e27" name="Reflex Accelerator (Charge)" hidden="false">
+              <description>When this model makes its attacks during its activation while it is charged, it can attack with both its weapons.</description>
+            </rule>
+          </rules>
+          <profiles>
+            <profile id="cf0d-64a6-1b8c-69a1" name="Paladin Enforcers" hidden="false" typeId="ee5b-45d6-6439-5c83" typeName="Squad">
+              <characteristics>
+                <characteristic name="SPD" typeId="63e0-b44a-50f3-5d3f">6</characteristic>
+                <characteristic name="MAT" typeId="0a8b-a206-4acf-92ae">3</characteristic>
+                <characteristic name="RAT" typeId="d86f-3c79-7c50-0502">3</characteristic>
+                <characteristic name="DEF" typeId="d2bf-4ab1-bbd1-c53d">3</characteristic>
+                <characteristic name="ARM" typeId="df58-c0c5-6903-dd53">3</characteristic>
+                <characteristic name="NUM" typeId="cc5f-a02a-8153-9031">3</characteristic>
+                <characteristic name="CST" typeId="403d-0963-ce1f-565d">2</characteristic>
+              </characteristics>
+            </profile>
+            <profile id="3d24-f87e-9ec1-bce8::a669-670b-4692-9886" name="Assault Rifle" hidden="false" typeId="3601-946f-42f1-0f5c" typeName="Weapon">
+              <characteristics>
+                <characteristic name="DMG" typeId="bd77-31aa-5209-2b6c">Ballistic</characteristic>
+                <characteristic name="TYP" typeId="684a-ebe0-b4ae-1d02">Ranged</characteristic>
+                <characteristic name="RNG" typeId="a6dd-0c75-98a7-e08a">12</characteristic>
+                <characteristic name="POW" typeId="9750-e740-35f4-1cf6">4</characteristic>
+                <characteristic name="Rules" typeId="b9f6-e564-4386-9830"/>
+              </characteristics>
+            </profile>
+            <profile id="c7d2-a4a3-7dd4-b222::d5e7-173e-2edd-379f" name="Bayonet" hidden="false" typeId="3601-946f-42f1-0f5c" typeName="Weapon">
+              <characteristics>
+                <characteristic name="DMG" typeId="bd77-31aa-5209-2b6c">Kinetic</characteristic>
+                <characteristic name="TYP" typeId="684a-ebe0-b4ae-1d02">Melee</characteristic>
+                <characteristic name="RNG" typeId="a6dd-0c75-98a7-e08a">1</characteristic>
+                <characteristic name="POW" typeId="9750-e740-35f4-1cf6">3</characteristic>
+                <characteristic name="Rules" typeId="b9f6-e564-4386-9830"/>
+              </characteristics>
+            </profile>
+          </profiles>
+          <costs>
+            <cost name="Weapon Points" typeId="ecbb-d452-36d4-0214" value="0.0"/>
+          </costs>
+          <categories>
+            <category id="49f8-3424-9b0c-8eea" name="Units" entryId="63b7-c3cd-7f99-1cf0" primary="true"/>
+          </categories>
+        </selection>
+        <selection id="d94b-d9ea-c44d-0e37" name="Paladin Weaver" entryId="95c1-7e10-92f0-8d01" number="1" type="model">
+          <rules>
+            <rule id="6f69-6f53-1dfe-b255::3ed5-a2a6-44a7-9c1d" name="Arc Relay (12)" hidden="false">
+              <description>This model can channel Fury Cyphers. A Fury Cypher channeled through this model is RNG 12.</description>
+            </rule>
+            <rule id="473a-1e4d-8c2d-6ff9::a4ab-9b99-4e38-42f9" name="Arcantrik Amplifier (Charge)" hidden="false">
+              <description>While this model is charged, Fury Cyphers channeled through it gain +5 RNG.</description>
+            </rule>
+            <rule id="8a55-b781-f91d-5650::17ec-c1b8-c3fb-459f" name="Compound Armor" hidden="false">
+              <description>This model gains +1 ARM against explosion damage.</description>
+            </rule>
+            <rule id="0600-c1f3-45a2-51af::c9e6-a3b3-fe05-7295" name="Realignment Codex (Spike)" hidden="false">
+              <description>Once per activation, this unit can spike to use Realignment Codex. When it does so, youcan clear any amount of Arc from one friendly unit within 10&quot; of this model or charge one unit with any amount of Arc up to its limit.</description>
+            </rule>
+            <rule id="839d-24d3-e9ab-36d8::f174-cd6d-3802-1cbc" name="Null Strike" hidden="false">
+              <description>Clear 1 Arc from the unit or void gate hit by this weapon.</description>
+            </rule>
+          </rules>
+          <profiles>
+            <profile id="80dd-89c0-7940-6a2a" name="Paladin Weaver" hidden="false" typeId="5643-55ad-cf84-ac2a" typeName="Solo">
+              <characteristics>
+                <characteristic name="SPD" typeId="e7f7-8a52-6885-3006">6</characteristic>
+                <characteristic name="MAT" typeId="b4d4-69fe-dd8c-7c12">3</characteristic>
+                <characteristic name="RAT" typeId="3127-5d41-efdc-a87d">3</characteristic>
+                <characteristic name="DEF" typeId="8355-c44c-010d-9a88">3</characteristic>
+                <characteristic name="ARM" typeId="d0c1-80eb-f256-6b2f">3</characteristic>
+                <characteristic name="FOC" typeId="b34d-3c07-68b0-ec80">4</characteristic>
+                <characteristic name="DMG" typeId="76be-0810-d006-512c">2</characteristic>
+                <characteristic name="CST" typeId="50cb-a3c5-93ef-21c0">1</characteristic>
+              </characteristics>
+            </profile>
+            <profile id="60ef-771d-9fca-cc8e::fa30-c94b-dcf7-e67e" name="Handgun" hidden="false" typeId="3601-946f-42f1-0f5c" typeName="Weapon">
+              <characteristics>
+                <characteristic name="DMG" typeId="bd77-31aa-5209-2b6c">Ballistic</characteristic>
+                <characteristic name="TYP" typeId="684a-ebe0-b4ae-1d02">Ranged</characteristic>
+                <characteristic name="RNG" typeId="a6dd-0c75-98a7-e08a">8</characteristic>
+                <characteristic name="POW" typeId="9750-e740-35f4-1cf6">3</characteristic>
+                <characteristic name="Rules" typeId="b9f6-e564-4386-9830"/>
+              </characteristics>
+            </profile>
+            <profile id="db79-0c3e-92d5-4299::b8e5-a35e-a3f3-26c5" name="Null Hammer" hidden="false" typeId="3601-946f-42f1-0f5c" typeName="Weapon">
+              <characteristics>
+                <characteristic name="DMG" typeId="bd77-31aa-5209-2b6c">Kinetic</characteristic>
+                <characteristic name="TYP" typeId="684a-ebe0-b4ae-1d02">Melee</characteristic>
+                <characteristic name="RNG" typeId="a6dd-0c75-98a7-e08a">1</characteristic>
+                <characteristic name="POW" typeId="9750-e740-35f4-1cf6">4</characteristic>
+                <characteristic name="Rules" typeId="b9f6-e564-4386-9830">Null Strike</characteristic>
+              </characteristics>
+            </profile>
+          </profiles>
+          <costs>
+            <cost name="Weapon Points" typeId="ecbb-d452-36d4-0214" value="0.0"/>
+          </costs>
+          <categories>
+            <category id="7099-0be2-f951-ff9f" name="Units" entryId="63b7-c3cd-7f99-1cf0" primary="true"/>
+          </categories>
+        </selection>
+        <selection id="57f1-7502-098f-7240" name="Paladin Aegis" entryId="8e55-b58c-569a-ef97" number="1" type="unit">
+          <rules>
+            <rule id="48cb-b1cd-4347-85fc::17ec-c1b8-c3fb-459f" name="Compound Armor" hidden="false">
+              <description>This model gains +1 ARM against explosion damage.</description>
+            </rule>
+            <rule id="f132-338a-e01f-e34c::cfe1-9227-7692-7b68" name="Force Field (Charge)" hidden="false">
+              <description>While charged, the models in this squad gain cover.</description>
+            </rule>
+            <rule id="30f9-9604-4d81-ae85::d921-b7e2-3db0-7b0c" name="Attachment (Paladin)" hidden="false">
+              <description>This model can be attached to Paladin squads.</description>
+            </rule>
+            <rule id="7b05-8023-0a3a-687a::c2f8-48d9-d6ed-1bdf" name="Force Ram (Spike)" hidden="false">
+              <description>When this model hits a target with an attack with this weapon, it can spike to cause the target to be slammed rather than suffering the effects of Paralysis. Before damage is rolled, the model hit is slammed 3&quot; directly away from this model. Collateral damage is equal to the POW of this weapon.</description>
+            </rule>
+            <rule id="cc1f-b353-42a4-97ec::c5f2-b7a9-63fd-e500" name="Lock Down" hidden="false">
+              <description>A model hit by this weapon suffers the lock down continuous effect.</description>
+            </rule>
+          </rules>
+          <profiles>
+            <profile id="db9e-a008-4094-9db8" name="Paladin Aegis" hidden="false" typeId="ee5b-45d6-6439-5c83" typeName="Squad">
+              <characteristics>
+                <characteristic name="SPD" typeId="63e0-b44a-50f3-5d3f">*</characteristic>
+                <characteristic name="MAT" typeId="0a8b-a206-4acf-92ae">3</characteristic>
+                <characteristic name="RAT" typeId="d86f-3c79-7c50-0502">3</characteristic>
+                <characteristic name="DEF" typeId="d2bf-4ab1-bbd1-c53d">3</characteristic>
+                <characteristic name="ARM" typeId="df58-c0c5-6903-dd53">3</characteristic>
+                <characteristic name="NUM" typeId="cc5f-a02a-8153-9031">1</characteristic>
+                <characteristic name="CST" typeId="403d-0963-ce1f-565d">+1</characteristic>
+              </characteristics>
+            </profile>
+            <profile id="4b92-7be2-cdda-ac7b::45f8-4b97-fbe2-b4f7" name="Force Generator" hidden="false" typeId="3601-946f-42f1-0f5c" typeName="Weapon">
+              <characteristics>
+                <characteristic name="DMG" typeId="bd77-31aa-5209-2b6c">Force</characteristic>
+                <characteristic name="TYP" typeId="684a-ebe0-b4ae-1d02">Ranged</characteristic>
+                <characteristic name="RNG" typeId="a6dd-0c75-98a7-e08a">12</characteristic>
+                <characteristic name="POW" typeId="9750-e740-35f4-1cf6">3</characteristic>
+                <characteristic name="Rules" typeId="b9f6-e564-4386-9830">Force Ram (Spike), Lock Down</characteristic>
+              </characteristics>
+            </profile>
+          </profiles>
+          <costs>
+            <cost name="Weapon Points" typeId="ecbb-d452-36d4-0214" value="0.0"/>
+          </costs>
+          <categories>
+            <category id="1c99-514d-5d05-c826" name="Attachments" entryId="fa79-7113-8f14-037f" primary="true"/>
           </categories>
         </selection>
       </selections>
       <categories>
-        <category id="370f-39d5-7514-83a6" name="Uncategorised" entryId="(No Category)" primary="false"/>
-        <category id="aa08-5159-d73c-66e4" name="Heroes" entryId="cc26-f6fc-643b-1352" primary="false"/>
-        <category id="c99d-b0fb-c2f9-e165" name="Units" entryId="63b7-c3cd-7f99-1cf0" primary="false"/>
-        <category id="8568-6b9e-b7ad-3148" name="Cyphers" entryId="7856-f1c4-8579-80c1" primary="false"/>
-        <category id="4eef-f40d-0e03-a09e" name="The Rack" entryId="7ad6-33d2-2e9b-7f2b" primary="false"/>
-        <category id="4ea8-e0d6-5f4d-864c" name="Attachments" entryId="fa79-7113-8f14-037f" primary="false"/>
+        <category id="61ea-06a8-8b61-d651" name="Uncategorised" entryId="(No Category)" primary="false"/>
+        <category id="7f59-1caf-0f35-839d" name="Heroes" entryId="cc26-f6fc-643b-1352" primary="false"/>
+        <category id="3427-0d5c-fdf1-f529" name="Units" entryId="63b7-c3cd-7f99-1cf0" primary="false"/>
+        <category id="966e-a092-3e20-d618" name="Cyphers" entryId="7856-f1c4-8579-80c1" primary="false"/>
+        <category id="750c-aac6-48e2-fce5" name="The Rack" entryId="7ad6-33d2-2e9b-7f2b" primary="false"/>
+        <category id="933c-7a98-4fd8-9c67" name="Attachments" entryId="fa79-7113-8f14-037f" primary="false"/>
       </categories>
     </force>
   </forces>
