@@ -26,21 +26,7 @@ function inject () {
                 return file.contents.toString('utf8')
             }
         }))
-        .pipe(gulpInject(src(['src/assets/agile.svg']), {
-            starttag: '<!-- inject:{{path}} -->',
-            relative: true,
-            transform: (filePath, file) => {
-                return file.contents.toString('utf8')
-            }
-        }))
-        .pipe(gulpInject(src(['src/assets/beast.svg']), {
-            starttag: '<!-- inject:{{path}} -->',
-            relative: true,
-            transform: (filePath, file) => {
-                return file.contents.toString('utf8')
-            }
-        }))
-        .pipe(gulpInject(src(['src/assets/berzerker.svg']), {
+        .pipe(gulpInject(src(['src/card.xsl']), {
             starttag: '<!-- inject:{{path}} -->',
             relative: true,
             transform: (filePath, file) => {
@@ -87,7 +73,7 @@ exports.default = () => {
             baseDir: './build',
             index: `${fileName}.html`
         },
-        reloadDelay: 500
+        reloadDelay: 2000
     })
     watch(['src/scss/*.scss', 'src/*.xsl'], series(scss, inject, transform, htmlRename, copyResult))
     watch('build/*.html').on('change', browserSync.reload)
